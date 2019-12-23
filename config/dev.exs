@@ -2,8 +2,8 @@ use Mix.Config
 
 # Configure your database
 config :twitter, Twitter.Repo,
-  username: "postgres",
-  password: "password",
+  username: "",
+  password: "",
   database: "twitter_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
