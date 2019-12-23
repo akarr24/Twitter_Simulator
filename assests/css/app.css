@@ -1,0 +1,15 @@
+/* This file is for your main application css. */
+
+@import "./phoenix.css";
+.help-block{
+    color: red;
+    text-translation: capitalize;
+    position: relative;
+    top: 25px;
+}
+
+.form-group{
+    position: relative;
+    margin-bottom: 25px;
+
+}
