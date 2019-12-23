@@ -1,0 +1,23 @@
+<div class="jumbotron">
+<div class="row marketing">
+  <div class="col-lg-6">
+  <div class="pull-left">
+<input id="userName" type="text" placeholder="Username" class="form-control" style="display:inline">
+<button id="register_user" type="button"  class="btn btn-success center-block">Register</button>
+</div>
+<input id="tweet" type="text" placeholder="Enter Tweet" class="form-control">
+<button id="user_tweet" type="button"  class="btn btn-success center-block">Tweet</button>
+<input id="subscribe" type="text" placeholder="Subscribe"  class="form-control">
+<button id="subscribe_user" type="button"  class="btn btn-success center-block">Subscribe</button>
+<input id="search_hashtag" type="text" placeholder="Query Hashtag"  class="form-control">
+<button id="hashtag_button" type="button"  class="btn btn-success center-block">Query hashtags</button>
+<input id="mentions" type="text" placeholder="Query mentions" class="form-control">
+<button id="mentions_button" type="button"  class="btn btn-success center-block">Query mentions</button>
+<div class="col-md-8 center-block">
+
+<button id="read_feed" type="button" class="btn btn-success btn-lg center-block">Read Feed</button>
+</div>
+<div id="messages"></div>
+</div>
+</div>
+</div>
